@@ -25,3 +25,6 @@
         </table>
     </div>
 @endsection
+
+
+<p>Anuz Pandey is HERO</p>
